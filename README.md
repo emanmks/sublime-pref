@@ -1,2 +1,2 @@
-# sublime-pref
-My Sublime Preference
+# My Personal Sublime Preference
+This is my personal sublime preference.
