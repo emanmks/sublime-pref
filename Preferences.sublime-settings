@@ -23,7 +23,8 @@
 		".git",
 		"__pycache__",
 		"env",
-		"env3"
+		"env3",
+		"node_modules"
 	],
 	"font_face": "Ubuntu Mono",
 	"font_options":
@@ -49,8 +50,8 @@
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		72,
-		79
+		120,
+		120
 	],
 	"scroll_past_end": false,
 	"show_full_path": true,

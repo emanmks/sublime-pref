@@ -54,15 +54,16 @@ This is my personal sublime preference.
 ```
 "rulers":
 [
-    72,
-    79
+    120,
+    120
 ],
 "folder_exclude_patterns":
 [
     ".git",
     "__pycache__",
     "env",
-    "env3"
+    "env3",
+    "node_modules"
 ],
 "file_exclude_patterns":
 [
